@@ -1,0 +1,1 @@
+# openai-nextjs-course
